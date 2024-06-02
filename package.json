@@ -9,6 +9,7 @@
   "categories": [
     "Other"
   ],
+  "publisher": "Maqing01223",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
